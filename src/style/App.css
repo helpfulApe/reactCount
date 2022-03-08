@@ -1,0 +1,24 @@
+body{
+  margin-top: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: lightgreen;
+}
+div{
+text-align: center;
+}
+
+button{
+  margin-right: 5px;
+  padding: 20px;
+  background: lightblue;
+}
+
+h1{
+  text-align: center;
+}
+
+h2{
+  font-size: 36px;
+}
