@@ -22,8 +22,9 @@ import React, { useState } from 'react';
 //   console.log('this is the new state of count ')
 //   return 4
 // }
+// test
 
-function App() {
+function App() { 
   const [count, setCount] = useState(0) // <- normale schreibweise 
   // count wird mit setState ein wert zugewiesen, welcher zu dem Zeitpunkt sein Ist zusatand ist.
   // count kann über setCount geändert und neu gerendert werden.
